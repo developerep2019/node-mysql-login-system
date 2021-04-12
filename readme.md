@@ -9,4 +9,8 @@
 <br>
 <br>
 ### Details
-| Cup of Coffee | 8
+| Syntax | Description |
+| ----------- | ----------- |
+| Cup of Tea | 8 |
+| Time Spend | 36 Hours |
+| Lines Of Code | 496 |
