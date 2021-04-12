@@ -9,7 +9,8 @@
 <br>
 <br>
 ### Details
-
+| Details | Quantity |
+| ----------- | ----------- |
 | Cup of Tea | 8 |
 | Time Spend | 36 Hours |
 | Lines Of Code | 496 |
